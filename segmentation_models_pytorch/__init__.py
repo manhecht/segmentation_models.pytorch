@@ -3,6 +3,8 @@ from . import encoders
 from . import decoders
 from . import losses
 from . import metrics
+from . import utils
+
 
 from .decoders.unet import Unet
 from .decoders.unetplusplus import UnetPlusPlus
